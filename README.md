@@ -21,7 +21,7 @@ It is a small tool made in Vue js for manipulating the perspective of a square m
 
 Copy my repo
 
-> git clone git@github.com:imarinho-dev/perspective-playground.git
+> git clone https://github.com/imarinho-dev/perspective-playground.git
 
 Instal dependencies
 
